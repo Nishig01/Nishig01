@@ -26,7 +26,7 @@ nishigandha = {
     "prev_work":   "Software Engineer @ Siemens Digital Industries Software (4 yrs)",
     "focus":       ["Full-Stack Engineering", "Machine Learning", "AI/ML Systems"],
     "currently":   ["Trustworthy ML", "Distributed ML", "ML coursework @ UF"],
-    "fun_fact":    "B.Tech Mechanical Eng → pivoted to CS → now building AI tools 🚀"
+    "fun_fact":    "B.Tech Mechanical Eng → pivoted to CS → now building AI tools "
 }
 ```
  
